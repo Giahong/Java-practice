@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/How2J练习题/How2J练习题.iml" filepath="$PROJECT_DIR$/../Java基础练习/How2J练习题/How2J练习题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/基础题50道/基础题50道.iml" filepath="$PROJECT_DIR$/../Java基础练习/基础题50道/基础题50道.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/杂题/杂题.iml" filepath="$PROJECT_DIR$/../Java基础练习/杂题/杂题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/疯狂java习题/疯狂java习题.iml" filepath="$PROJECT_DIR$/../Java基础练习/疯狂java习题/疯狂java习题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/第3套/第3套.iml" filepath="$PROJECT_DIR$/../Java基础练习/第3套/第3套.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/算法题/算法题.iml" filepath="$PROJECT_DIR$/../Java基础练习/算法题/算法题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java基础练习/语法测试/语法测试.iml" filepath="$PROJECT_DIR$/../Java基础练习/语法测试/语法测试.iml" />
+    </modules>
+  </component>
+</project>
